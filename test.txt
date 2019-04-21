@@ -1,0 +1,59 @@
+
+input was e
+
+HELLO
+
+input was e
+
+text input wasHELLO
+
+input was e
+
+text input was HELLO
+input was e
+
+text input was HEP
+
+input was d
+
+....
+
+input was d
+
+input morse code was....
+
+input was e
+
+text input was HI
+
+input was d
+
+input morse code was ....
+
+input was e
+
+text input was HELLO
+
+input was d
+
+input morse code was ....
+
+input was e
+
+text input was HEP
+
+input was e
+
+text input was HEP
+
+input was d
+
+input morse code was ....
+
+input was e
+
+text input was HELLO
+input was e
+
+text input was REETA
+
